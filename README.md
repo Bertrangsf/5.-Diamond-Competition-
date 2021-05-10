@@ -106,5 +106,5 @@ The realization of the project is divided into up to 2 parts:
 
 ## Author
 
-* **Bertrán Gil de Santivañes Finat** - *Initial work* - (https://github.com/Bertrangsf/5.-Diamond-Competition)
+* **Bertrán Gil de Santivañes Finat** - *Initial work* - (https://github.com/Bertrangsf/5.-Diamond-Competition-)
 
